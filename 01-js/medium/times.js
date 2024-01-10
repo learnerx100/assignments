@@ -11,3 +11,6 @@ There is no automated test for this one, this is more for you to understand time
 function calculateTime(n) {
     return 0.01;
 }
+
+
+// what do you mean what do youy mean
