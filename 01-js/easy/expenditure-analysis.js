@@ -6,7 +6,7 @@
         {
 		id: 1,
 		timestamp: 1656076800000,
-		price: 10,
+		price: 10,l
 		category: 'Food',
 		itemName: 'Pizza',
 	}
@@ -15,7 +15,6 @@
 
 
 function calculateTotalSpentByCategory(transactions) {
-  
 
 let obj = [];
 for (let i = 0; i < transactions.length; i++) {
